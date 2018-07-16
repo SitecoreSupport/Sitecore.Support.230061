@@ -8,6 +8,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.175);
     overflow-x: hidden !important;
     overflow-y: auto !important;
+    max-height: 70%;
 }
 
 .sc_LargeDropDownButton_DropDownItemsContainer {
